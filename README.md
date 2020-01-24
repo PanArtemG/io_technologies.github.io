@@ -1,4 +1,4 @@
-Тестовое задание для IO_Technologies -LOGIN PAGE.
+Тестовое задание для 'Join.To.IT' -LOGIN PAGE.
 
 Стек: 
 - HTML5;
